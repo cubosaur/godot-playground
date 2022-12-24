@@ -1,6 +1,6 @@
 [gd_resource type="ShaderMaterial" load_steps=2 format=2]
 
-[ext_resource path="res://Shaders/SH_Sprite_Animated_Basic.gdshader" type="Shader" id=1]
+[ext_resource path="res://Shaders/SH_Sprite_Animated_Vertex.gdshader" type="Shader" id=1]
 
 [resource]
 shader = ExtResource( 1 )
